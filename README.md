@@ -1,5 +1,12 @@
 # 💫 About Me:
-I am currently working on building AI agents and solutions to drive in the fintech industry<br>Looking to collaborate on open-source projects, AI developments, and many more.<br>I am looking for help with Agent tuning, Hallucinations, sentiment and intent analysis<br>I am currently learning about intent and behavioral analysis for AI agents<br>I am a Software Engineer at Razorpay<br>
+### Hi there 👋 I'm Ayush Sisodia
+
+**Software Engineer at Razorpay** with a focus on building cutting-edge **AI agents and solutions** for the fintech industry.
+
+- **🛠️ Currently Building:** AI agents designed to drive efficiency and innovation in financial services.
+- **💡 Key Focus Areas:** Agent tuning, managing hallucination, and advanced sentiment/intent analysis.
+- **🌱 Always Learning:** Deepening my knowledge in **intent and behavioral analysis** for AI systems.
+- **🤝 Let's Connect:** I'm actively looking to **collaborate** on open-source projects and new AI developments!
 
 
 ## 🌐 Socials:
