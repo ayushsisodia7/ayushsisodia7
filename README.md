@@ -13,13 +13,13 @@
 
 ## 🚀 Featured Projects
 
-[![Nexus for HDFC Collect Now](https://img.shields.io/badge/%E2%9C%A8%20Project%201-%23000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/project1)
+[![Nexus for HDFC Collect Now](https://img.shields.io/badge/✨%20Nexus%20for%20HDFC%20Collect%20Now-000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/project1)
 Developed an AI-powered chatbot tool using Python, Azure OpenAI, and LangChain to assist in Razorpay product integration.
 
-[![Integriti](https://img.shields.io/badge/⚡%20Project%202-%23000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/Integriti)
+[![Integriti](https://img.shields.io/badge/⚡%20Integriti-000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/Integriti)
 Developed an automated solution to streamline the merchant integration audit process, which was previously manual and time-consuming.
 
-[![Omniflow](https://img.shields.io/badge/🔥%20Project%203-%23000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/project3)
+[![Omniflow](https://img.shields.io/badge/🔥%20Omniflow-000000?style=plastic&logo=github&logoColor=white)](https://github.com/ayushsisodia7/project3)
 Developed a custom solution using Golang, gRPC, Redis, and Kafka to consolidate recurring payments onto a single API, improving transaction efficiency by 25% and reducing API complexity for internal teams.
 
 # 💻 Tech Stack:
