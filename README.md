@@ -1,12 +1,12 @@
 # 💫 About Me:
 ### Hi there 👋 I'm Ayush Sisodia
 
-**Associate Solutions Engineer at Razorpay** with a focus on building cutting-edge **AI agents and solutions** for the fintech industry.
+**Solutions Engineer at Razorpay**, passionate about building practical, high-impact AI agents that solve real problems in the fintech ecosystem.
 
-- **🛠️ Currently Building:** AI agents designed to drive efficiency and innovation in financial services.
-- **💡 Key Focus Areas:** Agent tuning, managing hallucination, and advanced sentiment/intent analysis.
-- **🌱 Always Learning:** Deepening my knowledge in **intent and behavioral analysis** for AI systems.
-- **🤝 Let's Connect:** I'm actively looking to **collaborate** on open-source projects and new AI developments!
+- **🛠️ What I’m Currently Building:** Intelligent AI agents that enhance efficiency, decision-making, and automation in financial services.
+- **💡 What I’m Focused On:** Advanced agent tuning, reducing hallucinations, and developing stronger sentiment and intent-understanding capabilities.
+- **🌱 What I’m Learning:** Continuously expanding my expertise in intent modeling, behavioral analysis, and human-aligned AI systems.
+- **🤝 How We Can Collaborate:** I’m always open to working on open-source AI projects, experimenting with new ideas, and contributing to meaningful advancements in the AI ecosystem.
 
 
 ## 🌐 Socials:
